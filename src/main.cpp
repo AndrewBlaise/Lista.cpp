@@ -2,7 +2,6 @@
 
 int main()
 {
-	int n;
 
 	//Lista l(5);
 	//Lista l();
