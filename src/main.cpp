@@ -2,17 +2,18 @@
 
 int main()
 {
-	/*int numN=3;
+	int n;
 
-	/*for (int i = 0; i <= numN; ++i)
-	{
-		Lista(i);
-	}
+	//Lista l(5);
+	//Lista l();
+	//std::cout<<l.IsVacio()<<std::endl;
+	//l.IsVacio();
+	//std::cout<<"Lista:	"<< l.BorrarP() <<std::endl;
+	//l.InsertarP(2);
+	//l.Buscar(2);
+	//l.InsertarRef(2,6);
+	//l.InsertarF(3);
 
-	for (int i = 0; i <= numN; ++i)
-	{
-		std::cout<< Lista(i)<<std::endl;
-	}*/
 	std::cout<<"Hello World"<<std::endl;
 	return 0;
 }
